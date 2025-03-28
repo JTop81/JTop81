@@ -39,12 +39,4 @@ Building seamless digital experiences is my passion, whether it’s a dynamic we
 
 🔹 𝐃𝐚𝐭𝐚 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧: Google Charts, Chart.js
 
-<p align="center">
-  <a>
-    <img height="120" width="150" src="https://github.com/JTop81/JTop81/blob/main/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JTop81&theme=dark"/>
-    <img height="120" width="150" src="https://github.com/JTop81/JTop81/blob/main/right.png">
-  </a>
-</p>
-
 ![footer](https://github.com/cryptogru812/cryptogru812/blob/main/footer.jpg)
