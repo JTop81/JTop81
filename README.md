@@ -22,8 +22,12 @@ Building seamless digital experiences is my passion, whether it’s a dynamic we
 ## 💼 What I Do  
 🚀 **Front-End Development** → React, Next.js, Vue.js, Nuxt.js, Angular.js, Flutter.
 
-🔗 **Varouis CSS** → TailwindCSS, Chakra UI, Styled-component, Ant Designm, Material Framework, shadcn/ui
-📱 **Mobile Development** → React Native (Expo), Flutter.
-🛠 **API integration & Backend Development** → Node.js, Python (Django, Flask), Firebase, WebSockets, GraphQL, RESTful APIs.
-💳 **E-Commerce & CMS** → Shopify, Webflow, WordPress, Laravel 
-⚡ **DevOps & Chrome Extensions** → Custom extensions, Deployment  
+🔹 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝: React.js, Next.js, Vue.js, Nuxt.js, Gatsby
+🔹 𝐌𝐨𝐛𝐢𝐥𝐞: React Native (IOS & Android)
+🔹 𝐁𝐚𝐜𝐤𝐞𝐧𝐝: Node.js, Express.js, Python, Django, FastAPI, Flask, Laravel
+🔹 𝐀𝐏𝐈 & 𝐑𝐞𝐚𝐥𝐭𝐢𝐦𝐞: GraphQL, Axios, Fetch, WebSocket, Socket.io
+🔹 𝐔𝐈 & 𝐒𝐭𝐲𝐥𝐢𝐧𝐠: Material-UI, Ant Design, Chakra UI, Tailwind CSS, Styled Components
+🔹 𝐀𝐧𝐢𝐦𝐚𝐭𝐢𝐨𝐧: Framer Motion, GSAP, Lottie, React Spring, Three.js
+🔹 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬 & 𝐂𝐥𝐨𝐮𝐝: Mongo DB, Firebase, Supabase, MySQL, Stripe, Google API, Sentry
+🔹 𝐓𝐨𝐨𝐥𝐬 & 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧: GitHub, GitLab, Jira, Trello, Bitbucket
+🔹 𝐃𝐚𝐭𝐚 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧: Google Charts, Chart.js
