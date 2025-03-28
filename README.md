@@ -41,9 +41,9 @@ Building seamless digital experiences is my passion, whether it’s a dynamic we
 
 <p align="center">
   <a>
-    <img height="120" width="150" src="https://github.com/cryptogru812/cryptogru812/blob/main/left.png">
+    <img height="120" width="150" src="https://github.com/cryptogru812/JTop81/blob/main/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JTop81&theme=dark"/>
-    <img height="120" width="150" src="https://github.com/cryptogru812/cryptogru812/blob/main/right.png">
+    <img height="120" width="150" src="https://github.com/cryptogru812/JTop81/blob/main/right.png">
   </a>
 </p>
 
