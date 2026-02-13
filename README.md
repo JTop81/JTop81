@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-# 👋 Welcome! I'm Phuc Anh
+# 👋 Welcome! I'm Duc Anh
 🚀 **Full-Stack Developer**
 
 I breathe code and love turning ideas into reality!  
